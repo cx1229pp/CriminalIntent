@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="et_input_hint">请输入标题！</string>
+    <string name="title_activity_crime_list">CrimeListActivity</string>
+    <string name="crime_resolve">已解决</string>
+</resources>
